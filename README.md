@@ -1,4 +1,4 @@
-# TODO LIST
+# TO·DO LIST
 ## Notas y Autoría
 Ejercicio final para el _Curso de Python, Abril-Mayo 2024._ Bejobs - IBM!
 
