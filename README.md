@@ -2,7 +2,7 @@
 ## Notas y Autoría
 Ejercicio final para el _Curso de Python, Abril-Mayo 2024._ Bejobs - IBM!
 
-+ **Desarrollado por:** _María Anastasia Livio Zanatta_
++ **Desarrollado por:** _Ann Livio
 + **Archivos adjuntos:** todo_list.py / requirements.txt / README.md / 5 capturas de pantalla en png.
 
 ## Interface de usuario
@@ -25,8 +25,6 @@ Clase TaskManager() para gestionar el diccionario donde se guardan las tareas, a
 Clase UserInterface() para manejar la parte más visual, imprimir en pantalla tanto títulos, menú o las propias tareas.
 
 ## Variables
-Espero que no sea un inconveniente que las variables estén en inglés, es la costumbre y no había nada especificado al respeto.
-
 ```python
 #Nomnbre del archivo donde se guardará y se cargará la lista  
 file_name= "lista.txt"
